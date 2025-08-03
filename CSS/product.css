@@ -1,0 +1,164 @@
+a{
+    text-decoration: none;
+    color:black;
+    text-align: center;
+}
+#product{
+    display:flex;
+    padding:10px 20px;
+
+}
+
+#productImage{
+    width:600px;
+    height:700px;
+    margin-bottom:20px;
+}
+
+#productImage img{
+    width:100%;
+    height: 100%;
+    
+}
+
+#lowerImages{
+    display:flex;
+}
+#lowerImages img{
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+
+}
+
+#lowerImages img:hover{
+    transform: scale(1.1);
+    outline:4px solid red;
+}
+#prod{
+    display: flex;
+    flex-direction: column;
+}
+#productDetails{
+    display:flex;
+}
+
+.productDetails{
+    display:flex;
+    flex-direction: column;
+    padding:10px 0px;
+    margin-left:60px;
+}
+
+
+
+.productDetails h3{
+    font-size: 35px;
+
+}
+
+.productDetails p{
+    font-size: 25px;
+}
+
+.buttons2{
+    width:400px;
+    height: 50px;
+    background-color: rgb(231, 77, 77);
+    color:white;
+    margin-bottom: 20px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    transition:transform 0.5s ease-in-out;
+}
+
+@keyframes pop{
+    0%{transform:scale(1)}
+    50%{transform:scale(1.3)}
+    100%{transform:scale(1)}
+}
+
+.buttons{
+    display:flex;
+    margin-bottom: 20px;
+   
+}
+
+.buttons button{
+    margin-right: 10px;
+    font-size: 20px;
+    padding:5px 10px;
+    cursor:pointer;
+    background-color: royalblue;
+    color:white;
+    border:none;
+}
+
+.productDetails img{
+    margin:20px;
+    width: 100px;
+    height: 100px;
+}
+
+#related{
+    display:flex;
+}
+
+.relatedImages{
+    margin:10px;
+    width: 200px;
+    height: 200px;
+    /* transition: 0.1s ease-in-out; */
+}
+
+.relatedImages a img{
+    width: 100%;
+    height: 90%;
+    transition: 0.1s ease-in-out;
+}
+
+
+
+.relatedImages a h3{
+    text-align:center;
+    height:10%
+    
+}
+
+
+.relatedImages:hover img{
+    transform:scale(1.1);
+    outline:4px solid red;
+}
+
+#quantity{
+    display:flex;
+    width:200px;
+    height: 50px;
+    margin-bottom:10px;
+    
+}
+
+.btnQuantity{
+    background-color: royalblue;
+    color:white;
+    width:33%;
+    height:100%;
+    text-align: center;
+    padding: 15px 10px;
+    border: 1px solid black;
+    margin: 0px 2px;
+    border:none;
+    user-select: none;
+    -webkit-user-select: none;
+
+    
+}
+
+#quantity div:not(#btnQuantityCenter):hover{
+    background-color: rgb(231, 77, 77);
+    color:white;
+    cursor:pointer;
+}
+
+

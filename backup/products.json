@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "product-1",
+    "name": "Sporty Sneaker",
+    "brand": "pierre-cardin",
+    "price": [
+      459.95,
+      469.95,
+      479.95,
+      489.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayMENS-17.jpg?v=1746604549&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayMENS-18.jpg?v=1746604549&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/pierre-cardin-logo.svg",
+    "description": [
+      "Urban casual",
+      "Shock absorption",
+      "Eco-friendly materials"
+    ],
+    "stock": 4
+  },
+  {
+    "id": "product-2",
+    "name": "Stitching Binding Slipper",
+    "brand": "grasshoppers",
+    "price": [
+      159.95,
+      169.95,
+      179.95,
+      189.95,
+      199.95,
+      209.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayMENS-49.jpg?v=1746604137&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayMENS-50.jpg?v=1746604137&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "black"
+    ],
+    "brandImage": "./images/brands/grasshoppers-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "product-3",
+    "name": "Stitching Binding Slipper",
+    "brand": "mancini",
+    "price": [
+      159.95,
+      169.95,
+      179.95,
+      189.95,
+      199.95,
+      209.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayMENS-45.jpg?v=1746603465&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayMENS-46.jpg?v=1746603465&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Tan"
+    ],
+    "brandImage": "./images/brands/mancini-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-4",
+    "name": "Mountain Pro",
+    "brand": "unreal",
+    "price": [
+      2249.95,
+      2259.95,
+      2269.95,
+      2279.95,
+      2289.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MensBRAND-17.jpg?v=1745911063",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MensBRAND-18.jpg?v=1745911063"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "brandImage": "/images/brands/unreal-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 3
+  },
+  {
+    "id": "product-5",
+    "name": "Toe Bumper Sneaker",
+    "brand": "tommy",
+    "price": [
+      299.95,
+      309.95,
+      319.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/JuneMENS-77_1.jpg?v=1745581396&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/JuneMENS-79.jpg?v=1745581396&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "White"
+    ],
+    "brandImage": "/images/brands/tommy-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "product-6",
+    "name": "Utility Boots",
+    "brand": "terrapod",
+    "price": [
+      539.95,
+      549.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayMENS-61.jpg?v=1745580231&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayMENS-62.jpg?v=1745580231&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7
+    ],
+    "colors": [
+      "Black"
+    ],
+    "brandImage": "/images/brands/terraPOD-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 5
+  },
+  {
+    "id": "product-7",
+    "name": "Utility Boots",
+    "brand": "ipanema",
+    "price": [
+      539.95,
+      549.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayMENS-57.jpg?v=1745569556&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayMENS-58.jpg?v=1745569556&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "Urban casual",
+      "Shock absorption",
+      "Eco-friendly materials"
+    ],
+    "stock": 2
+  },
+  {
+    "id": "product-8",
+    "name": "Apron Lace Up",
+    "brand": "pitbull",
+    "price": [
+      579.95,
+      589.95,
+      599.95,
+      609.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-69.jpg?v=1745569231&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-70.jpg?v=1745569231&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Black"
+    ],
+    "brandImage": "./images/brands/pitbull-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 2
+  },
+  {
+    "id": "product-9",
+    "name": "Micro Loafer Slipper",
+    "brand": "hi-tec",
+    "price": [
+      189.95,
+      199.95,
+      209.95,
+      219.95,
+      229.95,
+      239.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-125.jpg?v=1745568151&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-126.jpg?v=1745568188&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Tan"
+    ],
+    "brandImage": "./images/brands/hi-tec-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-10",
+    "name": "Ruan",
+    "brand": "unreal",
+    "price": [
+      1499.95,
+      1509.95,
+      1519.95,
+      1529.95,
+      1539.95,
+      1549.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MensBRAND-5.jpg?v=1745329239&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MensBRAND-6.jpg?v=1745329239&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "brandImage": "/images/brands/unreal-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-11",
+    "name": "Pursuit",
+    "brand": "grasshoppers",
+    "price": [
+      1499.95,
+      1509.95,
+      1519.95,
+      1529.95,
+      1539.95,
+      1549.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MensBRAND-1.jpg?v=1745328936&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MensBRAND-2.jpg?v=1745328939&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Black"
+    ],
+    "brandImage": "./images/brands/grasshoppers-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 2
+  },
+  {
+    "id": "product-12",
+    "name": "Rooikat",
+    "brand": "pierre-cardin",
+    "price": [
+      1599.95,
+      1609.95,
+      1619.95,
+      1629.95,
+      1639.95,
+      1649.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MensBRAND-13.jpg?v=1745328311&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MensBRAND-14.jpg?v=1745328311&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "brandImage": "./images/brands/pierre-cardin-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 2
+  },
+  {
+    "id": "product-13",
+    "name": "Yster",
+    "brand": "tommy",
+    "price": [
+      1199.95,
+      1209.95,
+      1219.95,
+      1229.95,
+      1239.95,
+      1249.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MensBRAND-9.jpg?v=1745327678&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MensBRAND-10.jpg?v=1745327678&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Tan"
+    ],
+    "brandImage": "/images/brands/tommy-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "product-14",
+    "name": "Mesh Insert Sneaker",
+    "brand": "mancini",
+    "price": [
+      459.95,
+      469.95,
+      479.95,
+      489.95,
+      499.95,
+      509.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/JuneMENS-5.jpg?v=1745313628&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/JuneMENS-6.jpg?v=1745313628&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Black"
+    ],
+    "brandImage": "./images/brands/mancini-logo.svg",
+    "description": [
+      "Urban casual",
+      "Shock absorption",
+      "Eco-friendly materials"
+    ],
+    "stock": 8
+  },
+  {
+    "id": "product-15",
+    "name": "Panels Sneaker",
+    "brand": "terrapod",
+    "price": [
+      439.95,
+      449.95,
+      459.95,
+      469.95,
+      479.95,
+      489.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/JuneMENS-73.jpg?v=1745313068&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/JuneMENS-74.jpg?v=1745313068&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Tan"
+    ],
+    "brandImage": "/images/brands/terraPOD-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 8
+  },
+  {
+    "id": "product-16",
+    "name": "Micro Loafer Slipper",
+    "brand": "hi-tec",
+    "price": [
+      189.95,
+      199.95,
+      209.95,
+      219.95,
+      229.95,
+      239.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-129_1.jpg?v=1745312533&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-131_1.jpg?v=1745312533&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "brandImage": "./images/brands/hi-tec-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 6
+  },
+  {
+    "id": "product-17",
+    "name": "Knitted Sneaker",
+    "brand": "ipanema",
+    "price": [
+      299.95,
+      309.95,
+      319.95,
+      329.95,
+      339.95,
+      349.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/JuneMENS-49.jpg?v=1745311790&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/JuneMENS-50.jpg?v=1745311790&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 1
+  },
+  {
+    "id": "product-18",
+    "name": "Formal Lace Up",
+    "brand": "pitbull",
+    "price": [
+      559.95,
+      569.95,
+      579.95,
+      589.95,
+      599.95,
+      609.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-73.jpg?v=1744627461&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-74.jpg?v=1744627461&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "brandImage": "./images/brands/pitbull-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 2
+  },
+  {
+    "id": "product-19",
+    "name": "Brogue Lace Up",
+    "brand": "hi-tec",
+    "price": [
+      559.95,
+      569.95,
+      579.95,
+      589.95,
+      599.95,
+      609.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-81.jpg?v=1744627116&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-82.jpg?v=1744627116&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "colors": [
+      "Tan"
+    ],
+    "brandImage": "./images/brands/hi-tec-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-20",
+    "name": "Smart Sneaker",
+    "brand": "pierre-cardin",
+    "price": [
+      359.95,
+      369.95,
+      379.95,
+      389.95,
+      399.95,
+      409.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/FebMens_-69_1.jpg?v=1744376606&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/FebMens_-70_1.jpg?v=1744376606&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colors": [
+      "Black"
+    ],
+    "brandImage": "./images/brands/pierre-cardin-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 0
+  },
+  {
+    "id": "product-21",
+    "name": "Brogue Lace Up",
+    "brand": "ipanema",
+    "price": [
+      559.95,
+      569.95,
+      579.95,
+      589.95,
+      599.95,
+      609.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-77_1.jpg?v=1744626800&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilMens-78_1.jpg?v=1744626800&width=200"
+    ],
+    "category": "men",
+    "sizes": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "Urban casual",
+      "Shock absorption",
+      "Eco-friendly materials"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-22",
+    "name": "Comfort Snow Boot",
+    "brand": "ipanema",
+    "price": [
+      499.95,
+      509.95,
+      519.95,
+      529.95,
+      539.95,
+      549.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-45.jpg?v=1746608064&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-46.jpg?v=1746608064&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Black"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 1
+  },
+  {
+    "id": "product-23",
+    "name": "Comfort Snow Boot",
+    "brand": "hi-tec",
+    "price": [
+      499.95,
+      509.95,
+      519.95,
+      529.95,
+      539.95,
+      549.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-49.jpg?v=1746606952&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-50.jpg?v=1746606952&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "brandImage": "./images/brands/hi-tec-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-24",
+    "name": "Heart Bootie Slipper",
+    "brand": "freestyle",
+    "price": [
+      259.95,
+      269.95,
+      279.95,
+      289.95,
+      299.95,
+      309.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-33.jpg?v=1746606668&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-34.jpg?v=1746606668&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/freestyle-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 6
+  },
+  {
+    "id": "product-25",
+    "name": "Heart Bootie Slipper",
+    "brand": "grasshoppers",
+    "price": [
+      259.95,
+      269.95,
+      279.95,
+      289.95,
+      299.95,
+      309.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-29.jpg?v=1746606113&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-30.jpg?v=1746606113&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/grasshoppers-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-26",
+    "name": "Chunky Sock Boot",
+    "brand": "giovanni",
+    "price": [
+      499.95,
+      509.95,
+      519.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-53.jpg?v=1746434476&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-54.jpg?v=1746434476&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      5,
+      6,
+      7
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/giovanni-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 0
+  },
+  {
+    "id": "product-27",
+    "name": "Chunky Sock Boot",
+    "brand": "criss-coss",
+    "price": [
+      499.95,
+      509.95,
+      519.95,
+      529.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-57.jpg?v=1746433823&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-58.jpg?v=1746433823&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/criss-coss-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-28",
+    "name": "Patent Brogue Loafer",
+    "brand": "ipanema",
+    "price": [
+      399.95,
+      409.95,
+      419.95,
+      429.95,
+      439.95,
+      449.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MyJKkBlD0T5VPiSW6vRbVwTdr9qvAIi2nA9_sUV_xqw.jpg?v=1746012056&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/4JQrvyOUvlfts5WWC-teN7YUYfAjuJvzuztGinSloE8.jpg?v=1746012056&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 1
+  },
+  {
+    "id": "product-29",
+    "name": "Platform Block Heel Boot",
+    "brand": "grasshoppers",
+    "price": [
+      599.95,
+      609.95,
+      619.95,
+      629.95,
+      639.95,
+      649.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-253.jpg?v=1745933642&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-254.jpg?v=1745933642&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/grasshoppers-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-30",
+    "name": "Diamante Essemtial Flat Sandals",
+    "brand": "hi-tec",
+    "price": [
+      179.95,
+      189.95,
+      199.95,
+      209.95,
+      219.95,
+      229.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-21.jpg?v=1745932966&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-22.jpg?v=1745932966&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/hi-tec-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 5
+  },
+  {
+    "id": "product-31",
+    "name": "Diamante Essential Flat Sandal",
+    "brand": "freestyle",
+    "price": [
+      179.95,
+      189.95,
+      199.95,
+      209.95,
+      219.95,
+      229.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-25.jpg?v=1745932673&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-26.jpg?v=1745932673&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/freestyle-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 2
+  },
+  {
+    "id": "product-32",
+    "name": "Jewelled Sling Back Sandal",
+    "brand": "criss-coss",
+    "price": [
+      179.95,
+      189.95,
+      199.95,
+      209.95,
+      219.95,
+      229.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-5_cd55736d-6b65-405b-8dd2-df08d8c06043.jpg?v=1745931689&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-6_633900b3-33f1-4d15-90f8-2a6f1f3d9b50.jpg?v=1745931689&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/criss-coss-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-33",
+    "name": "Hybrid Clog",
+    "brand": "giovanni",
+    "price": [
+      299.95,
+      309.95,
+      319.95,
+      329.95,
+      339.95,
+      349.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-45.jpg?v=1745931353&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-46.jpg?v=1745931353&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/giovanni-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-34",
+    "name": "Hybrid Clog",
+    "brand": "giovanni",
+    "price": [
+      299.95,
+      309.95,
+      319.95,
+      329.95,
+      339.95,
+      349.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-41.jpg?v=1745930802&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-42.jpg?v=1745930802&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/giovanni-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 5
+  },
+  {
+    "id": "product-35",
+    "name": "Chunky Mesh Trainer",
+    "brand": "criss-coss",
+    "price": [
+      399.95,
+      409.95,
+      419.95,
+      429.95,
+      439.95,
+      449.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-161.jpg?v=1745930499&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-162.jpg?v=1745930499&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/criss-coss-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-36",
+    "name": "Chunky Mesh Trainer",
+    "brand": "grasshoppers",
+    "price": [
+      399.95,
+      409.95,
+      419.95,
+      429.95,
+      439.95,
+      449.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-157.jpg?v=1745930116&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-158.jpg?v=1745930116&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/grasshoppers-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "product-37",
+    "name": "Two Tone Platform Sneaker",
+    "brand": "hi-tec",
+    "price": [
+      399.95,
+      409.95,
+      419.95,
+      429.95,
+      439.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-153.jpg?v=1745929200&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-154.jpg?v=1745929200&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/hi-tec-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 3
+  },
+  {
+    "id": "product-38",
+    "name": "Rain Boot",
+    "brand": "ipanema",
+    "price": [
+      399.95,
+      409.95,
+      419.95,
+      429.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-41.jpg?v=1745926920&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-42.jpg?v=1745926920&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 8
+  },
+  {
+    "id": "product-39",
+    "name": "Rain Boot",
+    "brand": "freestyle",
+    "price": [
+      399.95,
+      409.95,
+      419.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-37.jpg?v=1745926618&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-38.jpg?v=1745926618&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/freestyle-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 6
+  },
+  {
+    "id": "product-40",
+    "name": "Thong Kitten Heel Sandal",
+    "brand": "grasshoppers",
+    "price": [
+      299.95,
+      309.95,
+      319.95,
+      329.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-21_fd0caee9-f30e-4ddd-a451-2792d4d4bb94.jpg?v=1745926208&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-22_b97857c0-c686-4a0d-bf81-e49385205c9c.jpg?v=1745926208&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/grasshoppers-logo.svg",
+    "description": [
+      "Urban casual",
+      "Shock absorption",
+      "Eco-friendly materials"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-41",
+    "name": "Court Sneaker",
+    "brand": "hi-tec",
+    "price": [
+      359.95,
+      369.95,
+      379.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-125.jpg?v=1745925845&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-126.jpg?v=1745925845&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/hi-tec-logo.svg",
+    "description": [
+      "Urban casual",
+      "Shock absorption",
+      "Eco-friendly materials"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-42",
+    "name": "Mary Jane Heel",
+    "brand": "giovanni",
+    "price": [
+      399.95,
+      409.95,
+      419.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-189.jpg?v=1745925523&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-190.jpg?v=1745925523&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/giovanni-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 8
+  },
+  {
+    "id": "product-43",
+    "name": "Platform Sneaker",
+    "brand": "criss-coss",
+    "price": [
+      499.95,
+      509.95,
+      519.95,
+      529.95,
+      539.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-17.jpg?v=1745925151&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-18.jpg?v=1745925151&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/criss-coss-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 8
+  },
+  {
+    "id": "product-44",
+    "name": "Platform Sneaker",
+    "brand": "freestyle",
+    "price": [
+      499.95,
+      509.95,
+      519.95,
+      529.95,
+      539.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-13.jpg?v=1745921353&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-14.jpg?v=1745921353&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/freestyle-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 3
+  },
+  {
+    "id": "product-45",
+    "name": "Brogue Lace Up",
+    "brand": "ipanema",
+    "price": [
+      369.95,
+      379.95,
+      389.95,
+      399.95,
+      409.95,
+      419.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-165.jpg?v=1745921037&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-167.jpg?v=1745921037&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "Urban casual",
+      "Shock absorption",
+      "Eco-friendly materials"
+    ],
+    "stock": 6
+  },
+  {
+    "id": "product-46",
+    "name": "Brogue Lace Up",
+    "brand": "hi-tec",
+    "price": [
+      369.95,
+      379.95,
+      389.95,
+      399.95,
+      409.95,
+      419.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-169.jpg?v=1745920644&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-170.jpg?v=1745920644&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/hi-tec-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 6
+  },
+  {
+    "id": "product-47",
+    "name": "Retro Trainer",
+    "brand": "giovanni",
+    "price": [
+      399.95,
+      409.95,
+      419.95,
+      429.95,
+      439.95,
+      449.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-117.jpg?v=1745920087&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-118.jpg?v=1745920087&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/giovanni-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-48",
+    "name": "Rider Boot",
+    "brand": "freestyle",
+    "price": [
+      699.95,
+      709.95,
+      719.95,
+      729.95,
+      739.95,
+      749.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-65.jpg?v=1745919598&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-66.jpg?v=1745919598&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/freestyle-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 5
+  },
+  {
+    "id": "product-49",
+    "name": "Over the Knee Boot",
+    "brand": "ipanema",
+    "price": [
+      699.95,
+      709.95,
+      719.95,
+      729.95,
+      739.95,
+      749.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-81.jpg?v=1745918968&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-82.jpg?v=1745918968&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-50",
+    "name": "Laces Detail Knee-High Boot",
+    "brand": "grasshoppers",
+    "price": [
+      699.95,
+      709.95,
+      719.95,
+      729.95,
+      739.95,
+      749.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-69.jpg?v=1745918340&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-70.jpg?v=1745918340&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/grasshoppers-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 5
+  },
+  {
+    "id": "product-51",
+    "name": "Plush Furry Bootie Slipper",
+    "brand": "criss-coss",
+    "price": [
+      259.95,
+      269.95,
+      279.95,
+      289.95,
+      299.95,
+      309.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-213.jpg?v=1745917966&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-214.jpg?v=1745917966&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/criss-coss-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-52",
+    "name": "Platform Retro Runner",
+    "brand": "giovanni",
+    "price": [
+      359.95,
+      369.95,
+      379.95,
+      389.95,
+      399.95,
+      409.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-5.jpg?v=1745917580&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-6.jpg?v=1745917580&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/giovanni-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-53",
+    "name": "Platform Retro Runner",
+    "brand": "criss-coss",
+    "price": [
+      359.95,
+      369.95,
+      379.95,
+      389.95,
+      399.95,
+      409.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-1.jpg?v=1745917178&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayLADIES-2.jpg?v=1745917178&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/criss-coss-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-54",
+    "name": "Round Toe Block Heel",
+    "brand": "freestyle",
+    "price": [
+      359.95,
+      369.95,
+      379.95,
+      389.95,
+      399.95,
+      409.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-49.jpg?v=1745916663&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-50.jpg?v=1745916663&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/freestyle-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 8
+  },
+  {
+    "id": "product-55",
+    "name": "Comfort Flat Mule",
+    "brand": "ipanema",
+    "price": [
+      299.95,
+      309.95,
+      319.95,
+      329.95,
+      339.95,
+      349.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-17.jpg?v=1745916313&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-18.jpg?v=1745916313&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 1
+  },
+  {
+    "id": "product-56",
+    "name": "Knit Kitten Court Shoe",
+    "brand": "hi-tec",
+    "price": [
+      359.95,
+      369.95,
+      379.95,
+      389.95,
+      399.95,
+      409.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-57.jpg?v=1745914860&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-58.jpg?v=1745914860&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/hi-tec-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 6
+  },
+  {
+    "id": "product-57",
+    "name": "Chennile Knit Mule Slipper",
+    "brand": "grasshoppers",
+    "price": [
+      159.95,
+      169.95,
+      179.95,
+      189.95,
+      199.95,
+      209.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-73.jpg?v=1745912463&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-74.jpg?v=1745912463&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/grasshoppers-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-58",
+    "name": "Chennile Knit Mule Slipper",
+    "brand": "grasshoppers",
+    "price": [
+      159.95,
+      169.95,
+      179.95,
+      189.95,
+      199.95,
+      209.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-69.jpg?v=1745912172&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-70.jpg?v=1745912172&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/grasshoppers-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 6
+  },
+  {
+    "id": "product-59",
+    "name": "Platform Hybrid Mule Slipper",
+    "brand": "freestyle",
+    "price": [
+      239.95,
+      249.95,
+      259.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-81.jpg?v=1745911896&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-82.jpg?v=1745911896&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/freestyle-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 4
+  },
+  {
+    "id": "product-60",
+    "name": "Platform Hybrid Mule Slipper",
+    "brand": "hi-tec",
+    "price": [
+      239.95,
+      249.95,
+      259.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-77.jpg?v=1745911563&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-78.jpg?v=1745911563&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/hi-tec-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-61",
+    "name": "Wedge Sandal with Velcro Strap",
+    "brand": "criss-coss",
+    "price": [
+      259.95,
+      269.95,
+      279.95,
+      289.95,
+      299.95,
+      309.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-197.jpg?v=1745478946&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-198.jpg?v=1745478946&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/criss-coss-logo.svg",
+    "description": [
+      "Urban casual",
+      "Shock absorption",
+      "Eco-friendly materials"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "product-62",
+    "name": "Wedge Sandal with Velcro Strap",
+    "brand": "ipanema",
+    "price": [
+      259.95,
+      269.95,
+      279.95,
+      289.95,
+      299.95,
+      309.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-193.jpg?v=1745478301&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-194.jpg?v=1745478301&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "Urban casual",
+      "Shock absorption",
+      "Eco-friendly materials"
+    ],
+    "stock": 6
+  },
+  {
+    "id": "product-63",
+    "name": "Gusset Slip On Sneaker",
+    "brand": "giovanni",
+    "price": [
+      499.95,
+      509.95,
+      519.95,
+      529.95,
+      539.95,
+      549.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-137.jpg?v=1745477730&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadies-138.jpg?v=1745477730&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/giovanni-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-64",
+    "name": "Ankle Snow Boot",
+    "brand": "criss-coss",
+    "price": [
+      499.95,
+      509.95,
+      519.95,
+      529.95,
+      539.95,
+      549.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-65.jpg?v=1744827592&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-66.jpg?v=1744827592&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/criss-coss-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 5
+  },
+  {
+    "id": "product-65",
+    "name": "Ankle Snow Boot",
+    "brand": "ipanema",
+    "price": [
+      499.95,
+      509.95,
+      519.95,
+      529.95,
+      539.95,
+      549.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-61.jpg?v=1744827084&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-62.jpg?v=1744827084&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "Urban casual",
+      "Shock absorption",
+      "Eco-friendly materials"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "product-66",
+    "name": "Moccassin",
+    "brand": "grasshoppers",
+    "price": [
+      599.95,
+      609.95,
+      619.95,
+      629.95,
+      639.95,
+      649.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-21.jpg?v=1744824362&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-22.jpg?v=1744824362&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/grasshoppers-logo.svg",
+    "description": [
+      "Urban casual",
+      "Shock absorption",
+      "Eco-friendly materials"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-67",
+    "name": "Moccasin",
+    "brand": "giovanni",
+    "price": [
+      599.95,
+      609.95,
+      619.95,
+      629.95,
+      639.95,
+      649.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-25.jpg?v=1744824062&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-26.jpg?v=1744824062&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/giovanni-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 8
+  },
+  {
+    "id": "product-68",
+    "name": "Patent Court Shoe",
+    "brand": "hi-tec",
+    "price": [
+      599.95,
+      609.95,
+      619.95,
+      629.95,
+      639.95,
+      649.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-9.jpg?v=1744823753&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-10.jpg?v=1744823753&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/hi-tec-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 0
+  },
+  {
+    "id": "product-69",
+    "name": "Patent Court Shoe",
+    "brand": "freestyle",
+    "price": [
+      599.95,
+      609.95,
+      619.95,
+      629.95,
+      639.95,
+      649.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-1.jpg?v=1744823501&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-2.jpg?v=1744823501&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/freestyle-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-70",
+    "name": "Patent Court Shoe",
+    "brand": "giovanni",
+    "price": [
+      599.95,
+      609.95,
+      619.95,
+      629.95,
+      639.95,
+      649.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-5_30f39cb0-75e3-4ff4-b2a2-470396b68efb.jpg?v=1744823196&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-6_9d129475-7e9f-4edb-9ac2-962f31dfff75.jpg?v=1744823202&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/giovanni-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 5
+  },
+  {
+    "id": "product-71",
+    "name": "Elastic Topline Block Heel",
+    "brand": "ipanema",
+    "price": [
+      599.95,
+      609.95,
+      619.95,
+      629.95,
+      639.95,
+      649.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-13.jpg?v=1744823095&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilLadiesEXTRA-14.jpg?v=1744823095&width=200"
+    ],
+    "category": "women",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "./images/brands/ipanema-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-72",
+    "name": "Panel Sneaker",
+    "brand": "sugar-spice",
+    "price": [
+      199.95,
+      209.95,
+      219.95,
+      229.95,
+      239.95,
+      249.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-17.jpg?v=1746622660&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-18.jpg?v=1746622660&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "/images/brands/sugar-spice-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 6
+  },
+  {
+    "id": "product-73",
+    "name": "Double Velcro Boot",
+    "brand": "pitbull",
+    "price": [
+      249.95,
+      259.95,
+      269.95,
+      279.95,
+      289.95,
+      299.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-25.jpg?v=1746622245&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-26.jpg?v=1746622245&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Green"
+    ],
+    "brandImage": "/images/brands/pitbull-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-74",
+    "name": "Panel Sneaker",
+    "brand": "tommy",
+    "price": [
+      199.95,
+      209.95,
+      219.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-21.jpg?v=1746621526&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-22.jpg?v=1746621526&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "brandImage": "/images/brands/tommy-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 3
+  },
+  {
+    "id": "product-75",
+    "name": "Stacked Lace up Boots",
+    "brand": "terrapod",
+    "price": [
+      359.95,
+      369.95,
+      379.95,
+      389.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-73.jpg?v=1746620930&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-74.jpg?v=1746620930&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "brandImage": "/images/brands/terraPOD-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 2
+  },
+  {
+    "id": "product-76",
+    "name": "Stacked Lace up Boots",
+    "brand": "smart-steps",
+    "price": [
+      339.95,
+      349.95,
+      359.95,
+      369.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-69.jpg?v=1746620438&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-70.jpg?v=1746620438&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Nude"
+    ],
+    "brandImage": "/images/brands/smart-steps-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-77",
+    "name": "Winner Lace Up Boots",
+    "brand": "unreal",
+    "price": [
+      339.95,
+      349.95,
+      359.95,
+      369.95,
+      379.95,
+      389.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-53.jpg?v=1746619904&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-54.jpg?v=1746619904&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Tan"
+    ],
+    "brandImage": "/images/brands/unreal-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 3
+  },
+  {
+    "id": "product-78",
+    "name": "Hiker Boot",
+    "brand": "pitbull",
+    "price": [
+      339.95,
+      349.95,
+      359.95,
+      369.95,
+      379.95,
+      389.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-57.jpg?v=1746619339&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-58.jpg?v=1746619339&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "brandImage": "/images/brands/pitbull-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 1
+  },
+  {
+    "id": "product-79",
+    "name": "Glitter Boots with Ribbon Laces",
+    "brand": "smart-steps",
+    "price": [
+      249.95,
+      259.95,
+      269.95,
+      279.95,
+      289.95,
+      299.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-33.jpg?v=1746618683&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-34.jpg?v=1746618683&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Black"
+    ],
+    "brandImage": "/images/brands/smart-steps-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 7
+  },
+  {
+    "id": "product-80",
+    "name": "Trendy Velcro Boot",
+    "brand": "terrapod",
+    "price": [
+      249.95,
+      259.95,
+      269.95,
+      279.95,
+      289.95,
+      299.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-41.jpg?v=1746617534&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-42.jpg?v=1746617534&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Pink"
+    ],
+    "brandImage": "/images/brands/terraPOD-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 2
+  },
+  {
+    "id": "product-81",
+    "name": "Trendy Velcro Boot",
+    "brand": "sugar-spice",
+    "price": [
+      249.95,
+      259.95,
+      269.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-37.jpg?v=1746610943&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-38.jpg?v=1746610943&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Multi"
+    ],
+    "brandImage": "/images/brands/sugar-spice-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 2
+  },
+  {
+    "id": "product-82",
+    "name": "Chunky Fur Chelsea",
+    "brand": "unreal",
+    "price": [
+      299.95,
+      309.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-65.jpg?v=1746610419&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-66.jpg?v=1746610419&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4
+    ],
+    "colors": [
+      "Tan"
+    ],
+    "brandImage": "/images/brands/unreal-logo.svg",
+    "description": [
+      "Comfort fit",
+      "Breathable fabric",
+      "Durable sole"
+    ],
+    "stock": 4
+  },
+  {
+    "id": "product-83",
+    "name": "Cleated Boots",
+    "brand": "tommy",
+    "price": [
+      249.95,
+      259.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-29.jpg?v=1746609413&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-30.jpg?v=1746609413&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4
+    ],
+    "colors": [
+      "Chocolate"
+    ],
+    "brandImage": "/images/brands/tommy-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 5
+  },
+  {
+    "id": "product-84",
+    "name": "Studded Western Boots",
+    "brand": "terrapod",
+    "price": [
+      339.95,
+      349.95,
+      359.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-45.jpg?v=1746608947&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-46.jpg?v=1746608947&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Chocolate"
+    ],
+    "brandImage": "/images/brands/terraPOD-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "product-85",
+    "name": "Trendy Mary Jane",
+    "brand": "pitbull",
+    "price": [
+      289.95,
+      299.95,
+      309.95,
+      319.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MarchKids-33.jpg?v=1746012888&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MarchKids-34.jpg?v=1746012888&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "colors": [
+      "Black"
+    ],
+    "brandImage": "/images/brands/pitbull-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 3
+  },
+  {
+    "id": "product-86",
+    "name": "Hiker Sneaker",
+    "brand": "smart-steps",
+    "price": [
+      239.95,
+      249.95,
+      259.95,
+      269.95,
+      279.95,
+      289.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/JuneKIDS-1_b43dc707-2d94-4f7e-8802-9a4d9155f00f.jpg?v=1746012544&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/JuneKIDS-2.jpg?v=1746012544&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Black"
+    ],
+    "brandImage": "/images/brands/smart-steps-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 6
+  },
+  {
+    "id": "product-87",
+    "name": "Glitter Outsole Boot",
+    "brand": "sugar-spice",
+    "price": [
+      249.95,
+      259.95,
+      269.95,
+      279.95,
+      289.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-69.jpg?v=1744829250&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-70.jpg?v=1744829250&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "colors": [
+      "Black"
+    ],
+    "brandImage": "/images/brands/sugar-spice-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 8
+  },
+  {
+    "id": "product-88",
+    "name": "Apron Lace Up Boot",
+    "brand": "unreal",
+    "price": [
+      339.95,
+      349.95,
+      359.95,
+      369.95,
+      379.95,
+      389.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-61.jpg?v=1744828891&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/MayKIDS-62.jpg?v=1744828891&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Tan"
+    ],
+    "brandImage": "/images/brands/unreal-logo.svg",
+    "description": [
+      "Premium materials",
+      "Modern aesthetic",
+      "Everyday comfort"
+    ],
+    "stock": 4
+  },
+  {
+    "id": "product-89",
+    "name": "Dino Novelty Clog",
+    "brand": "tommy",
+    "price": [
+      99.95,
+      109.95,
+      119.95,
+      129.95,
+      139.95,
+      149.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-57.jpg?v=1744828288&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-58.jpg?v=1744828288&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Green"
+    ],
+    "brandImage": "/images/brands/tommy-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 2
+  },
+  {
+    "id": "product-90",
+    "name": "Fur Lined Clog",
+    "brand": "terrapod",
+    "price": [
+      99.95,
+      109.95,
+      119.95,
+      129.95,
+      139.95,
+      149.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-61.jpg?v=1744827914&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-62.jpg?v=1744827914&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "brandImage": "/images/brands/terraPOD-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 4
+  },
+  {
+    "id": "product-91",
+    "name": "Mzansi Snow Boot",
+    "brand": "unreal",
+    "price": [
+      249.95,
+      259.95,
+      269.95,
+      279.95,
+      289.95,
+      299.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-5.jpg?v=1744626008&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-6.jpg?v=1744626008&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Lilac"
+    ],
+    "brandImage": "/images/brands/unreal-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-92",
+    "name": "Mzansi Snow Boots",
+    "brand": "pitbull",
+    "price": [
+      249.95,
+      259.95,
+      269.95,
+      279.95,
+      289.95,
+      299.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-9.jpg?v=1744625650&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-10.jpg?v=1744625650&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Tan"
+    ],
+    "brandImage": "/images/brands/pitbull-logo.svg",
+    "description": [
+      "All-day support",
+      "Flexible movement",
+      "Sleek design"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "product-93",
+    "name": "Bump Toe Boot",
+    "brand": "sugar-spice",
+    "price": [
+      249.95,
+      259.95,
+      269.95,
+      279.95,
+      289.95,
+      299.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-1.jpg?v=1744614900&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-2.jpg?v=1744614900&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Nude"
+    ],
+    "brandImage": "/images/brands/sugar-spice-logo.svg",
+    "description": [
+      "Water-resistant",
+      "Stylish and sturdy",
+      "Ready for any season"
+    ],
+    "stock": 9
+  },
+  {
+    "id": "product-94",
+    "name": "Trendy Rain Boots",
+    "brand": "tommy",
+    "price": [
+      149.95,
+      159.95,
+      169.95,
+      179.95,
+      189.95,
+      199.95
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-33.jpg?v=1744382709&width=200",
+      "https://cdn.shopify.com/s/files/1/0384/6379/9429/files/AprilKids-34.jpg?v=1744382709&width=200"
+    ],
+    "category": "kids",
+    "sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "colors": [
+      "Pink"
+    ],
+    "brandImage": "/images/brands/tommy-logo.svg",
+    "description": [
+      "Trendy style",
+      "Non-slip grip",
+      "Feather-light feel"
+    ],
+    "stock": 1
+  }
+]
