@@ -196,3 +196,6 @@ export async function getBrandsByCategory(){
 
 // (Make sure all your other async functions also propagate errors with throw if you want them caught properly)
 
+app.listen(3000,()=>{
+    console.log("running on port 3000")
+})
